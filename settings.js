@@ -9,13 +9,13 @@ const {
 /*--------------------------------------------*/
 
 // Owner
-global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
+global.ownername = '𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒' //ur owner name
 /*--------------------------------------------*/
 
 // Information
-global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
-global.premium = ["2348165846414"] // Premium User
+global.botname = '𝐐𝐔𝐄𝐄𝐍_𝐂𝐇𝐀𝐑𝐈𝐓𝐘 𝐕𝟐' //ur bot name
+global.ownernumber = '254112192119' //ur owner number
+global.premium = ["254112192119"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
 global.typemenu = 'v12' // menu type 'v1' => 'v12'
@@ -30,13 +30,13 @@ global.groupevent = false //show update messages in group chat
 /*-----------------------------------------------------*/
 
 // Telegram
-global.OWNER = ["2348165846414"]
-global.OWNER_NAME = "𝑻𝑶𝑿𝑿𝑰𝑪 𝑩𝑶𝒀"
+global.OWNER = ["254112192119"]
+global.OWNER_NAME = "𝐂𝐀𝐒𝐄𝐘𝐑𝐇𝐎𝐃𝐄𝐒"
 global.BOT_TOKEN = '-'
 global.APIKeys = {
    'https://api.zeeoneofc.my.id': '-',
 }   
-global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑹𝑰𝑨𝑺 𝑽𝟐"   
+global.BOT_NAME = "𝑸𝑼𝑬𝑬𝑵 𝑪𝑯𝑨𝑹𝑰𝑻𝒀 𝑽𝟐"   
 global.THUMBNAIL = "./File/image/lol.jpg"
 global.DONASI = "./File/image/donasi.jpg"
 global.language = indonesia
@@ -84,7 +84,7 @@ global.location = '1' // id location
 
 
 /*--------------------------------------------*/    
-//====================BY Toxxic Tech=============================//
+//====================BY CASEYRHODES Tech=============================//
 
                   //FINISHING//
 
