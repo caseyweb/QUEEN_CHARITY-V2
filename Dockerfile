@@ -4,7 +4,7 @@ FROM node:20
 USER node
 
 
-RUN git clone https://github.com/Toxic1239/Queen-RiasV2 home/node/blue
+RUN git clone https://github.com/caseyweb/QUEEN_CHARITY-V2 home/node/blue
 
 
 WORKDIR /home/node/blue
